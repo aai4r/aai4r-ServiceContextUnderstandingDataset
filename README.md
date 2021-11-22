@@ -12,12 +12,18 @@
 ## 수집 유형 및 규모
 * 총 10,064장 이미지와 annotation 정보
 * annotation 정보 (음식의 위치/종류, 남은 음식의 양(0~100), 식사 진행 상태(식사 전/식사 중/식사 후), 촬영 각도/위치)
-![촬영 장소 실내, 창가, 실외의 예](images/images1.PNG) 
-*촬영 장소 실내, 창가, 실외의 예*
-![촬영 각도 90도, 45도, 10도의 예](images/images2.PNG) 
-*촬영 각도 90도, 45도, 10도의 예*
-![Annotation의 예](images/images3.PNG) 
-*Annotation의 예*
+
+| ![](images/images1.PNG) |
+|:--:|
+| *촬영 장소 실내, 창가, 실외의 예* |
+
+| ![](images/images2.PNG) |
+|:--:|
+| *촬영 각도 90도, 45도, 10도의 예* |
+
+| ![](images/images3.PNG) |
+|:--:|
+| *Annotation의 예* |
 
 ## 디렉토리 구조
 * PASCAL VOC 데이터셋의 구조를 따름
