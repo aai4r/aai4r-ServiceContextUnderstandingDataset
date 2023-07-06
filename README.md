@@ -1,5 +1,5 @@
 # Service Context Understanding Dataset
-> 본 데이터셋은 [Cloud Robot 과제](https://github.com/aai4r/aai4r-master)의 일환으로 수집함.
+> 본 데이터셋은 [Cloud Robot 과제](https://aai4r.github.io)의 일환으로 수집함.
 > 식당에서 식사하는 사람들에게 필요한 서비스를 제공하기위한 인공지능 모델을 만들고 테스트하기 위한 데이터셋(이미지와 관련 정보(음식 위치, 남은 양, 식사 진행 상태))을 수집함.
 
 ## 수집과정
